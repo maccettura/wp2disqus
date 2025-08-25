@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DisqusConvert": {
+      "commandName": "Project",
+      "commandLineArgs": "-i \"C:\\temp\\Comments\\testWpImport.xml\" -o \"C:\\temp\\Comments\\disqusOutput.xml\" -c 10003"
+    }
+  }
+}
